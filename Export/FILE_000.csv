@@ -1,104 +1,104 @@
-0;なし
-1;回復ディスク
-2;中回復ディスク
-3;大回復ディスク
-4;超回復ディスク
-5;ＭＰディスク
-6;中ＭＰディスク
-7;大ＭＰディスク
-8;ダブルディスク
-9;治療ディスク
-10;万能ディスク
-11;対変化ディスク
-12;再生ディスク
-13;超再生ディスク
-14;ばんそうこう
-15;ばんそうこうＤＸ
-16;攻撃プラグイン
-17;防御プラグイン
-18;高速プラグイン
-19;万能プラグイン
-20;攻撃プラグインS
-21;防御プラグインS
-22;高速プラグインS
-23;オートパイロット
-24;攻撃チップ
-25;防御チップ
-26;賢さチップ
-27;素早さチップ
-28;ＨＰチップ
-29;ＭＰチップ
-30;デビルチップA
-31;デビルチップD
-32;デビルチップE
-33;けいたいトイレ
-34;トレーマニュアル
-35;安眠まくら
-36;敵避けお守り
-37;敵寄せシグナル
-38;健康サンダル
-39;肉
-40;巨大肉
-41;極上肉
-42;挑戦ニンジン
-43;サクラ鳥大根
-44;ペンペンペン草
-45;デジタケ
-46;雪割りキノコ
-47;デラックスキノコ
-48;デジぼっくり
-49;ニッコリンゴ
-50;超電磁レモン
-51;黄金ドングリ
-52;ヘビーいちご
-53;天津マロン
-54;モンドレイク
-55;食用サボテン
-56;オレンジバナナ
-57;ごうりき草の実
-58;じょうぶ草の実
-59;はやあし草の実
-60;ものしり草の実
-61;もりもり草の実
-62;やすらぎ草の実
-63;デジジャコ
-64;デジブナ
-65;デジマス
-66;ブラックデジマス
-67;デジナマズ
-68;デジカムル
-69;デジメダカ
-70;デジキンギョ
-71;デジコイ
-72;デジマゴイ
-73;デジタナゴ
-74;デジサケ
-75;デジドジョウ
-76;デジウナギ
-77;デジアロワナ
-78;デジピラルク
-79;くさった肉
-80;運だめしキノコ
-81;クサリカケメロン
-82;未使用アイテム
-83;未使用アイテム
-84;大きなヒトデ
-85;小さなヒトデ
-86;とがったヒトデ
-87;まるっこいヒトデ
-88;すべすべのヒトデ
-89;ごつごつしたヒトデ
-90;巨大<r2_きょだい>な鉱石<r2_こうせき>
-91;普通<r2_ふつう>の小石<r2_こいし>
-92;ミドリデジタケ
-93;とても汚<r1_きたな>いもの
-94;REディスク
-95;未使用アイテム
-96;未使用アイテム
-97;未使用アイテム
-98;未使用アイテム
-99;未使用アイテム
-100;巨大な爪
+0;No
+1;Piccolo HP Disk
+2;Medio HP Disk
+3;Largo HP Disk
+4;Ultra HP Disk
+5;Piccolo MP Disk
+6;Medio MP Disk
+7;Large MP Disk
+8;Disco Doppio
+9;Disco di Cura
+10;Disco Onnipotente
+11;Disco Protettivo
+12;Disco Rianimatore
+13;Super Disco Rianimatore
+14;Cerotto
+15;Cerotto DX
+16;Incrementa Attacco
+17;Incrementa Difesa
+18;Incrementa Velocità
+19;Incremeta Stats
+20;Incrementa Attacco s
+21;Incrementa Difesa s
+22;Incrementa Velocita s
+23;Pilota Automatico
+24;Chip Attacco
+25;Chip Difesa
+26;Chip Int
+27;Chip Velocità
+28;Chip HP
+29;Chip Mp
+30;Chip Malv A
+31;Chip Malv D
+32;Chip Malv E
+33;Toilet Port
+34;Manuale D'all
+35;Pillola Riposo
+36;Talismano Anti Nemici
+37;Segnale Per Nemici
+38;Scarpe Cura
+39;Carne
+40;Carne Grande
+41;Carne Enorme
+42;Super Carota
+43;Ravanello
+44;Erba Spinosa
+45;Digifungo
+46;Ghiacciofungo
+47;Fungo Migliore
+48;Digipine
+49;Mela Dolce
+50;Limone Rigenerante
+51;Ghianda D'oro
+52;Grande Bacca
+53;Castagna
+54;Mandragola
+55;Fior Di Cactus
+56;Banana Arancione
+57;Frutto Della Forza
+58;Bacca Della Calma
+59;Foglia Velocità
+60;Frutto Della Saggezza
+61;Frutto HP
+62;Frutto Della Pace
+63;Digipesce
+64;Digicarpa
+65;Digitrota
+66;Digitrota Nera
+67;Digipescegatto
+68;Digianguilla
+69;Digisardina
+70;Digisushi
+71;Digikoi
+72;Digimakoi
+73;Digitanako
+74;Digiserpe
+75;Digidojou
+76;Digiunagi
+77;Digiarowana
+78;Digipiracuchu
+79;Carne Guasta
+80;Fungo Felicità
+81;Melone Chiaro
+82;Elemento Guasto
+83;Elemento Inutilizzato
+84;Grande Pescestella
+85;Stella Marina
+86;Stella Marina Appuntita
+87;Stella Sferica
+88;Stella Liscia
+89;Stella Robusta
+90;Orecchini Grandi
+91;Ciottolo
+92;Midori
+93;Colata Sporca
+94;RE Disco
+95;Elemento Guasto
+96;Elemento Guasto
+97;Elemento Guasto
+98;Elemento Guasto
+99;Elemento Guasto
+100;Grande Artiglio
 101;炎のかけら
 102;燃え盛る翼
 103;悪魔の翼
