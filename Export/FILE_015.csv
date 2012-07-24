@@ -9,81 +9,81 @@
 8;Velocità
 9;Intelligenza
 10;Tipo
-11;形態
-12;幼年期１
-13;幼年期２
-14;成長期
-15;成熟期
-16;完全体
-17;究極体
-18;アーマー体
-19;性質
-20;属性
-21;寝起き
-22;年齢
-23;才
-24;体重
+11;Forma
+12;Infanzia１
+13;Infanzia２
+14;Fase di Crescita
+15;Fase di Maturità
+16;Corpo Intero
+17;Corpo Finale
+18;Armatura
+19;Natura
+20;Attributo
+21;Sveglia
+22;Età
+23;Anni
+24;Peso
 25;G
-26;召喚
-27;性格
-28;ライフ
-29;ご機嫌
-30;しつけ
-31;呪い
+26;Citazione
+27;Personalità
+28;Vita
+29;Felicità
+30;Disciplina
+31;Sgridare
 32;？？？
-33;匹
+33;Animali
 34;──────
 35;ＮＯ　ＤＡＴＡ
-36;個
+36;Individuale
 37;Ｎｏｗ　Ｌｏａｄｉｎｇ．．．
 38;×
 39;／
-40;名前
-41;通常技
-42;必殺技
-43;召喚
+40;Nome
+41;Di solito si muove
+42;Mosse Speciali
+43;Citazione
 44;？？？
-45;なし
-46;きげん
+45;No
+46;Stato d'animo
 47;しつけ
-48;のろい
+48;Sgridare
 49;ＬＩＦＥ
-50;データ
-51;ワクチン
-52;ウィルス
-53;フリー
-54;不明
+50;Dati
+51;Vaccino
+52;Virus
+53;Libero
+54;Sconosciuto
 55;～
-56;メインメニュー
-57;アイテム
-58;テイマー情報
-59;パートナー情報
-60;スキル
-61;技セット
-62;アクセサリ
-63;オプション
-64;デジメモリ
-65;メール
-66;称号
-67;大事なもの
-68;進化情報
-69;セーブ・ロード
-70;倉庫
-71;褒める
-72;叱る
-73;寝かせる
-74;戦歴
-75;ニュースログ
-76;キーワード
-77;カード
-78;マップ
-79;アイテムです
-80;パートナーデジモンの情報<r2_じょうほう>を表示<r2_ひょうじ>します
-81;パートナーデジモンが使<r1_つか>う技<r1_わざ>を設定<r2_せってい>します
-82;パートナーデジモンが身<r1_み>につけるアクセサリを設定<r2_せってい>します
+56;Menu Principale
+57;Oggetti
+58;Informazioni Giocatore
+59;Informazioni Digimon
+60;Abilità
+61;Lista Abilità
+62;Accessori
+63;Opzioni
+64;DigiMemory
+65;E-Mail
+66;Titolo
+67;Oggetti Importanti
+68;Informazioni Digevoluzioni
+69;Salva e Carica
+70;Magazzino
+71;Lodare
+72;Rimproverare
+73;Porre
+74;Senreki
+75;Notizie
+76;Parola Chiave
+77;Scheda
+78;Mappa
+79;Voce
+80;Visualizza informazioni Digimon
+81;Il digimon imposterà la tecnica
+82;Dare al digimon il set d'accessori
 83;戦闘中<r3_せんとうちゅう>に召喚技<r3_しょうかんわざ>で呼<r1_よ>び出<r1_だ>すデジモンを設定<r2_せってい>します
-84;冒険<r2_ぼうけん>の中<r1_なか>でパートナーとして進化<r2_しんか>させたデジモンを表示<r2_ひょうじ>します
-85;プレイヤーのテイマーとしての情報<r2_じょうほう>を表示<r2_ひょうじ>します
+84;Al digimon è stato permesso di digevolversi
+85;Visualizza informazioni Personaggio
 86;取得<r2_しゅとく>した称号<r2_しょうごう>を表示<r2_ひょうじ>します
 87;手<r1_て>に入<r1_い>れた大事<r2_だいじ>なものを表示<r2_ひょうじ>します
 88;自分宛<r3_じぶんあて>に届<r1_とど>いたメールを表示<r2_ひょうじ>します
@@ -94,24 +94,24 @@
 93;この世界<r2_せかい>における様々<r2_さまざま>な用語<r2_ようご>と、その意味<r2_いみ>を表示<r2_ひょうじ>します
 94;所持<r2_しょじ>しているデジモンカードを表示<r2_ひょうじ>します
 95;ファイル島<r1_とう>の全域<r2_ぜんいき>マップを表示<r2_ひょうじ>します
-96;メッセージ速度
-97;メッセージ自動送り
-98;ＢＧＭ音量
-99;ＳＥ音量
-100;バトルコマンド
-101;カメラ上下操作
-102;カメラ左右操作
-103;データインストール
-104;ＳＬＯＷ
-105;ＦＡＳＴ
+96;Velocità Testo
+97;Messaggio automatico Alimentazione
+98;ＢＧＭVolume
+99;ＳＥVolume
+100;Comandi Battaglia
+101;Movimento Camera
+102;Funzionamento Camera destra-sinistra
+103;Installazione Dati
+104;LENTO
+105;VELOCE
 106;ＯＮ
 107;ＯＦＦ
 108;ＭＡＸ
 109;ＭＩＮ
-110;ノーマル
-111;リバース
-112;クイック
-113;ホールド
+110;Normale
+111;Invertire
+112;Veloce
+113;Tenere
 114;メッセージの表示速度<r4_ひょうじそくど>を変更<r2_へんこう>します
 115;メッセージの自動送<r3_じどうおく>りをON/OFFします
 116;BGMの音量<r2_おんりょう>を変更<r2_へんこう>します
@@ -120,255 +120,255 @@
 119;カメラの上下操作<r4_じょうげそうさ>を変更<r2_へんこう>します
 120;カメラの左右操作<r4_さゆうそうさ>を変更<r2_へんこう>します
 121;データインストールモードのON/OFFを変更<r2_へんこう>します
-122;テイマーランク
-123;称号
-124;育てたデジモン
-125;所持金
-126;プレイ時間
+122;Classifica Tamer
+123;Titolo
+124;Digimon Raised
+125;Tasca
+126;Ore di Gioco
 127;クエストクリア数
-128;トレーニング回数
-129;戦闘した回数
-130;ＮＡＭＥ
+128;Ore Allenamento
+129;Numero di Battaglie
+130;NOME
 131;ＤＩＧＩＭＯＮ
 132;ＰＬＡＹＥＲ
 133;ＬＯＧ
-134;ＳＹＳＴＥＭ
-135;ＰＯＷＥＲ
+134;SISTEMA
+135;FORZA
 136;ＭＰ
-137;ＲＡＮＧＥ
+137;GRADO
 138;ＡＤＤ
 139;スキルが装着<r2_そうちゃく>されていません
 140;このスキルは未習得<r3_みしゅうとく>です
 141;攻撃技をセットしてください
 142;現在<r2_げんざい>のパートナーではこのスキルを覚<r1_おぼ>えられません
-143;ＳＰＥＣＩＡＬ　ＳＫＩＬＬ
+143;ABILITA' SPECIALI
 144;買<r1_か>う
 145;売<r1_う>る
-146;やめる
-147;所持金
-148;購入
-149;売却
-150;所持数
-151;合計
-152;自販機
-153;所持数：
-154;購入する個数を決めてください
-155;売却する個数を決めてください
-156;肉先物取引
-157;本日の相場
-158;取引限度数
-159;取引する個数を決めて下さい
+146;Esci
+147;Soldi
+148;Acquisto
+149;Vendita
+150;Totale Possesso
+151;Totale
+152;Vending Machine
+153;Totale Possesso：
+154;Si prega di scegliere il numero d'acquistare
+155;Si prega di scegliere il numero da vendere
+156;Negozio della Carne
+157;Oggi sul Mercato
+158;Limitare il Numero di Scambi
+159;Si prega di scegliere il numero da trattare
 160;倉庫<r2_そうこ>に入<r1_い>れる
 161;倉庫<r2_そうこ>から出<r1_だ>す
-162;やめる
-163;預ける
-164;取り出す
-165;所持数
-166;倉庫数
-167;倉庫には
-168;入っています
-169;手持ちには
-170;あります
-171;預ける数を決めてください
-172;引き出す決めてください
-173;倉庫の空き容量
-174;アイテム
-175;さくせん
-176;よぶ
-177;ターゲット
-178;にげる
-179;おまかせ
-180;カスタム
-181;せんたく
-182;へんこう
-183;やめる
-184;まかせた
-185;アイテム
-186;いどう
-187;にげろ
-188;たえろ
-189;ターゲット
-190;思いっきり
-191;ほどほど
-192;離れろ
-193;ＳＴＯＰ
-194;ゴスペル構造体
-195;ＢＡＴＴＬＥ　ＲＥＳＵＬＴ
-196;ＴＲＡＩＮＩＮＧ　ＲＥＳＵＬＴ
-197;ＦＯＯＤ　ＲＥＳＵＬＴ
-198;ステータス
-199;取得スキル
-200;獲得アイテム
-201;取得金
-202;を覚えました！
-203;ＴＲＡＩＮＩＮＧ　ＭＥＮＵ
-204;トレーニング効果
+162;Esci
+163;Deposita
+164;Ritira
+165;In Possesso
+166;Nel Deposito
+167;Nel Deposito
+168;Contiene
+169;Con se
+170;Esistono
+171;Si prega di scegliere il numero da depositare
+172;Si prega di scegleire il numero da ritirare
+173;Spazio Deposito
+174;Oggetti
+175;Strategia
+176;Di cui al
+177;Obiettivo
+178;Fuga
+179;Casuale
+180;Costume
+181;Selezione
+182;Cambiare
+183;Esci
+184;E'stato lasciato
+185;Oggetto
+186;Spostare
+187;Chickie
+188;Taero
+189;Obiettivo
+190;Omoikkiri
+191;Moderatamente
+192;Fuggire
+193;STOP
+194;Struttura Sacra
+195;RISULTATO BATTAGLIA
+196;RISULTATO ALLENAMENTO
+197;RISULTATO CIBO
+198;Stato
+199;Acquisto Competenze
+200;Ogetti Acquisiti
+201;Acquisizione
+202;Mi Ricordo！
+203;MENU ALLENAMENTO
+204;Effetto Allenamento
 205;データをインストール中<r1_ちゅう>です。完了<r2_かんりょう>するまで、絶対<r2_ぜったい>に電源<r2_でんげん>を切<r1_き>らないで下<r1_くだ>さい。
 206;インストール完了<r2_かんりょう>しました。
 207;ご使用<r2_しよう>の記録<r2_きろく>メディアによっては、 インストールデータの作成<r2_さくせい>、及<r1_およ>び削除<r2_さくじょ>に時間<r2_じかん>がかかる場合<r2_ばあい>があります。
-208;セーブ
-209;ロード
-210;削除
-211;タイトル画面に戻る
-212;タイトルに戻りますか？
-213;はい
-214;いいえ
-215;セーブしていない内容は消えますが、よろしいですか？
-216;はい
-217;いいえ
-218;データをセーブします
-219;データをロードします
-220;データを削除<r2_さくじょ>します
-221;タイトル画面<r2_がめん>に戻<r1_もど>ります
-222;名前
-223;タイプ
-224;必殺技
-225;威力
-226;属性
-227;回数
-228;ここに上書きしますか？
-229;はい
-230;いいえ
-231;ここに保存しますか？
-232;はい
-233;いいえ
-234;を送信しますか？
-235;はい
-236;いいえ
-237;をチャージしますか？
-238;はい
-239;いいえ
-240;ＳＯＲＴ　ＩＴＥＭ
-241;をどうしますか？
-242;使う
-243;入れ替え
-244;捨てる
-245;を本当に捨てますか？
-246;はい
-247;いいえ
-248;を捨てました
-249;は捨てられません
-250;は使用できません
-251;戻る
-252;おまかせ順に並び替えますか？
-253;はい
-254;いいえ
-255;ＡＣＣＥＳＳＯＲＹ
-256;を購入しますか？
-257;はい
-258;いいえ
-259;ＳＵＢＪＥＣＴ
-260;ＦＲＯＭ
-261;総メール数：
-262;新着数：
-263;クリア数：
-264;添付ファイルを開きますか？
-265;はい
-266;いいえ
-267;ＩＮＦＯＭＡＴＩＯＮ
-268;アクセスするルームを選んで下さい
+208;Salva
+209;Carica
+210;Cancella
+211;Torna al menu Principale
+212;Sei sicuro？
+213;Si
+214;No
+215;La partita non verrà salvata continuare？
+216;Si
+217;No
+218;Per salvare i dati
+219;Caricare dati
+220;Eliminare i Dati
+221;Tornare alla schermata dei titoli
+222;Nome
+223;Tipo
+224;Mosse Speciali
+225;Potenza
+226;Attributo
+227;Numero di Volte
+228;Vuoi sovrascrivere？
+229;Si
+230;No
+231;Vuoi salvare qui？
+232;Si
+233;No
+234;Vuoi inviare？
+235;Si
+236;No
+237;Vuoi Caricare？
+238;Si
+239;No
+240;ORDINA OGGETTO
+241;Cosa ti piacerebbe fare？
+242;Utilizzare
+243;Sostituire
+244;Elimare
+245;Vuoi Eliminarlo？
+246;Si
+247;No
+248;E' stato eliminato
+249;Non eliminato
+250;Non puo essere utilizzato
+251;Indietro
+252;Vuoi ordinare？
+253;Si
+254;No
+255;ACCESSORI
+256;Acquistare？
+257;Si
+258;No
+259;OGGETTO
+260;DA
+261;Numero E-Mail：
+262;Numero News：
+263;Numero：
+264;Aprire Allegato？
+265;Si
+266;No
+267;INFORMAZIONI
+268;Si prega di selezionare la stanza per accedere
 269;ＮＯ
-270;ルーム
-271;ＭＥＭＢＥＲ
-272;登録するストレージを選んで下さい
-273;呼び出すデジモンを選んで下さい
-274;パートナー
-275;ストレージカード
-276;デジストレージ
-277;ここに登録しますか？
-278;はい
-279;いいえ
-280;ここに上書きしますが、よろしいですか？
-281;はい
-282;いいえ
-283;このデジモンのデータを呼び出しますか？
-284;はい
-285;いいえ
-286;のデータを読み込みますか？
-287;はい
-288;いいえ
-289;PUSH　ANY　ＢＵＴＴＯＮ
-290;はじめから
-291;つづきから
-292;ネットワーク
-293;オプション
-294;ゲーム設定
-295;データインストール
-296;つよくてはじめから
-297;アイテム
-298;ほめる
-299;しかる
-300;ねかせる
-301;デジヴァイス
-302;年
-303;日
-304;エリアマップ
-305;決定
-306;戻る
-307;えらぶ
-308;ソート
-309;スクロール
-310;ビューモード
-311;リスト変更
-312;はずす
-313;変更
-314;ズーム
-315;リセット
-316;表示
-317;回す
-318;読む
-319;捨てる
-320;ゲージ
-321;上下移動
-322;とじる
-323;ファイル
-324;カードセット
-325;キャンセル
-326;ステータス
-327;ルール
-328;ルール
-329;チーム変更
-330;シナリオ確認
-331;バトル開始
-332;準備OK
-333;ＭＡＩＮ ＭＥＮＵ
+270;Camera
+271;MEMBRO
+272;Si prega di selezionare il registro di memorizzazione
+273;Si prega di selezionare la chiamata Digimon
+274;Partner
+275;Scheda di memoria
+276;Memorizzazione Digitale
+277;Vuoi registrarti qui？
+278;Si
+279;No
+280;Sovrascrivere qui？
+281;Si
+282;No
+283;Chiamare cosi il Digimon？
+284;Si
+285;No
+286;Vuoi caricare i dati？
+287;Si
+288;No
+289;PREMI UN TASTO QUALSIASI
+290;Nuovo Gioco
+291;Continua Partita
+292;Online
+293;Opzioni
+294;Impostazioni di Gioco
+295;Installazione Dati
+296;Buon Inizio
+297;Oggetto
+298;Lodare
+299;Rimproverare
+300;Porre
+301;Digivice
+302;Anni
+303;Giorno
+304;Area
+305;Decisione
+306;Indietro
+307;Scegliere
+308;Ordinare
+309;Scorrere
+310;Modalità Visualizzazione
+311;Lista Modifiche
+312;Rimuovere
+313;Cambiare
+314;Zoom
+315;Azzerare
+316;Mostra
+317;Girare
+318;Leggere
+319;Scartare
+320;Valutare
+321;Sposta Su e Giù
+322;Chiudere
+323;File
+324;Impostare la Scheda
+325;Annullato
+326;Stato
+327;Regola
+328;Regola
+329;Cambiare Squadra
+330;Scenraio Confermato
+331;Inizio Battaglia
+332;Preparazione OK
+333;MENU PRINCIPALE
 334;ＰＡＲＴＮＥＲ
-335;ＩＴＥＭ　ＬＩＳＴ
+335;LISTA OGGETTI
 336;ＴＡＭＥＲ
-337;ＳＡＶＥ
-338;ＥＭＢＬＥＭ
+337;SALVA
+338;MEDAGLIE
 339;ＮＥＷＳ　ＬＯＧ
-340;ＧＬＯＳＳＡＲＹ
-341;ＫＥＹ　ＩＴＥＭ
-342;ＷＯＲＬＤ　ＭＡＰ
-343;ＳＫＩＬＬ　ＳＥＴ
-344;ＤＡＴＡ　ＩＮＳＴＡＬＬ
-345;ＯＰＴＩＯＮ
+340;GLOSSARIO
+341;OGGETTI CHIAVE
+342;MAPPA DEL MONDO
+343;SET ABILITA'
+344;INSTALLAZIONE DATA
+345;OPZIONI
 346;ＭＡＩＬ
 347;ＤＩＧＩ　ＳＴＯＲＡＧＥ
-348;ＲＯＯＭ　ＳＥＬＥＣＴ
-349;ニュース一覧
-350;ＦＩＳＨＩＮＧ　ＲＥＣＯＲＤ
-351;最大
+348;SELEZIONA STANZA
+349;Notizie
+350;RECORD PESCA
+351;Massimo
 352;ｃｍ
-353;ＣＡＲＤ　ＳＥＴ　ＬＩＳＴ
+353;LISTA CARTE
 354;ＩＤ
-355;ランク
-356;名前
-357;所持数：
+355;Posizione
+356;Nome
+357;In Possesso：
 358;Ｃ
 359;Ｂ
 360;Ａ
 361;Ｓ
 362;ＳＳ
-363;を送信しますか？
-364;はい
-365;いいえ
-366;は送信出来ません
-367;ＣＡＲＤ　ＲＥＳＵＬＴ
-368;ＢＡＴＴＬＥ　ＲＵＬＥ
-369;テイマーの参加
-370;制限時間
-371;アイテム出現
+363;Inviare？
+364;Si
+365;No
+366;Non può essere inviate
+367;RISULTATO CARTE
+368;REGOLE BATTAGLIE
+369;Tamer Massimo
+370;Termine
+371;Aspetto Oggetti
 372;ＯＮ
 373;ＯＦＦ
