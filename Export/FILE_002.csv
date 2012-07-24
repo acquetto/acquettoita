@@ -1,26 +1,26 @@
 0;
-1;HPを500回復<r2_かいふく>する。
-2;HPを1500回復<r2_かいふく>する。
-3;HPを5000回復<r2_かいふく>する。
-4;HPを全<r1_すべ>て回復<r2_かいふく>する。
-5;MPを500回復<r2_かいふく>する。
-6;MPを1500回復<r2_かいふく>する。
-7;MPを5000回復<r2_かいふく>する。
-8;HPとMPを同時<r2_どうじ>に\n1500ずつ回復<r2_かいふく>する。
-9;毒<r1_どく>・麻痺<r2_まひ>・混乱<r2_こんらん>・\nスロウ・液晶化<r3_えきしょうか>を治<r1_なお>す。
-10;状態<r2_じょうたい>異常<r2_いじょう>を治<r1_なお>し、HPと\nMPを1500回復<r2_かいふく>する。
-11;状態<r2_じょうたい>異常<r2_いじょう>に対<r1_たい>する抵抗力<r3_ていこうりょく>を\n上昇<r2_じょうしょう>させる。
-12;瀕死<r2_ひんし>を治療<r2_ちりょう>し、\nHPとMPを1500回復<r2_かいふく>する。
-13;瀕死<r2_ひんし>を治療<r2_ちりょう>し、\nHPとMPを全<r1_ぜん>回復<r2_かいふく>する。
+1;Recupera 500 HP。
+2;Recupera 1500 HP。
+3;Recupera 5000 HP。
+4;Recupera tutti gli HP。
+5;Recupera 500 MP。
+6;Recupera 1500 MP。
+7;Recupera 5000 MP。
+8;Recupera 1500 MP-HP。
+9;Guarisci da alterazione di stato。
+10;Recupera 1500 HP-MP。
+11;Resisti ai cambiamenti di stato。
+12;Rianima con 1500 HP-MP。
+13;Rianima con tutti gli HP-MP。
 14;
 15;
-16;一時的<r3_いちじてき>に攻撃力<r3_こうげきりょく>が\n少<r1_すこ>し上昇<r2_じょうしょう>する。
-17;一時的<r3_いちじてき>に防御力<r3_ぼうぎょりょく>が\n少<r1_すこ>し上昇<r2_じょうしょう>する。
-18;一時的<r3_いちじてき>に素早<r2_すばや>さが\n少<r1_すこ>し上昇<r2_じょうしょう>する。
-19;一時的<r3_いちじてき>に攻撃力<r3_こうげきりょく>・防御力<r3_ぼうぎょりょく>・\n素早<r2_すばや>さが少<r1_すこ>し上昇<r2_じょうしょう>する。
-20;一時的<r3_いちじてき>に攻撃力<r3_こうげきりょく>が\n大<r1_おお>きく上昇<r2_じょうしょう>する。
-21;一時的<r3_いちじてき>に防御力<r3_ぼうぎょりょく>が\n大<r1_おお>きく上昇<r2_じょうしょう>する。
-22;一時的<r3_いちじてき>に素早<r2_すばや>さが\n大<r1_おお>きく上昇<r2_じょうしょう>する。
+16;Aumenta Leggermente l'attacco。
+17;Aumenta Leggermente la difesa。
+18;Aumenta Leggermente la velocità。
+19;Aumenta attacco e difesa a lungo。
+20;Aumenta la potenza di attacco。
+21;Aumenta di molto la difesa。
+22;Aumenta di molto la velocità。
 23;
 24;
 25;
@@ -92,7 +92,7 @@
 91;
 92;
 93;
-94;HPを30秒間<r2_びょうかん>\nゆっくり回復<r2_かいふく>させる。
+94;Gli HP si recuperano da soli per 30 secondi。
 95;
 96;
 97;
