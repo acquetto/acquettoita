@@ -82,7 +82,7 @@
 81;Il digimon imposterà la tecnica
 82;Dare al digimon il set d'accessori
 83;Impostare il digimon da mandare in combattimento
-84;Al digimon è stato permesso di digevolversi
+84;Al digimon e' stato permesso di digevolversi
 85;Visualizza informazioni Personaggio
 86;Visualizza il titolo da ottenere
 87;Visualizzazioni Importanti
@@ -300,8 +300,8 @@
 299;Rimproverare
 300;Porre
 301;Digivice
-302;Anni
-303;Giorno
+302;A.
+303;G.
 304;Area
 305;Decisione
 306;Indietro
@@ -319,7 +319,7 @@
 318;Leggere
 319;Scartare
 320;Valutare
-321;Sposta Su e Giù
+321;Sposta Su e Giu'
 322;Chiudere
 323;File
 324;Impostare la Scheda
