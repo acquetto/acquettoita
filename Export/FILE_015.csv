@@ -6,28 +6,28 @@
 5;MP Massimi
 6;Attacco
 7;Difesa
-8;Velocità
-9;Intelligenza
+8;Velocita'
+9;Int
 10;Tipo
 11;Forma
-12;Infanzia１
-13;Infanzia２
-14;Fase di Crescita
-15;Fase di Maturità
-16;Corpo Intero
-17;Corpo Finale
+12;Baby１
+13;Baby２
+14;Rokie
+15;Campione
+16;Ultimate
+17;Mega
 18;Armatura
 19;Natura
 20;Attributo
 21;Sveglia
-22;Età
+22;Eta'
 23;Anni
 24;Peso
 25;G
 26;Citazione
-27;Personalità
+27;Mentalita'
 28;Vita
-29;Felicità
+29;Felicita'
 30;Disciplina
 31;Sgridare
 32;？？？
@@ -58,8 +58,8 @@
 57;Oggetti
 58;Informazioni Giocatore
 59;Informazioni Digimon
-60;Abilità
-61;Lista Abilità
+60;Abilita'
+61;Lista Abilita'
 62;Accessori
 63;Opzioni
 64;DigiMemory
@@ -90,17 +90,17 @@
 89;La linea per salvare e caricare i dati
 90;Impostazioni Varie
 91;Carriera
-92;Il registro delle notizie è stato scaricato dal terminale del 10F piano del colosseo
+92;Il registro delle notizie e' stato scaricato dal terminale del 10F piano del colosseo
 93;Visualizzazione Significato
 94;Scheda Digimon in possesso
 95;Mappa dell'intera Isola
-96;Velocità Testo
-97;Messaggio automatico Alimentazione
+96;Velocita' Testo
+97;Messaggio automatico 
 98;ＢＧＭVolume
 99;ＳＥVolume
 100;Comandi Battaglia
 101;Movimento Camera
-102;Funzionamento Camera destra-sinistra
+102;Funzionamento Camera 
 103;Installazione Dati
 104;LENTO
 105;VELOCE
@@ -112,7 +112,7 @@
 111;Invertire
 112;Veloce
 113;Tenere
-114;Modifica la velocità di visualizzazione del testo
+114;Modifica la velocita' di visualizzazione del testo
 115;trasmissione automatica di messaggi ON/OFF
 116;Volume casse BGM
 117;Volume casse SE
@@ -137,10 +137,10 @@
 136;ＭＰ
 137;GRADO
 138;ＡＤＤ
-139;Abilità non Insegnata
-140;Questa abilità non è adatta
+139;Abilita' non Insegnata
+140;Questa abilita' non è adatta
 141;Si prega di impostare l'attacco
-142;Un partner in squadra non è attualmente in grado di ricordare questa abilità
+142;Un partner in squadra non è attualmente in grado di ricordare questa abilita'
 143;ABILITA' SPECIALI
 144;Ho Acquistato
 145;Vendita
