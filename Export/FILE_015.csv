@@ -45,7 +45,7 @@
 44;？？？
 45;No
 46;Stato d'animo
-47;しつけ
+47;Educazione
 48;Sgridare
 49;ＬＩＦＥ
 50;Dati
@@ -81,19 +81,19 @@
 80;Visualizza informazioni Digimon
 81;Il digimon imposterà la tecnica
 82;Dare al digimon il set d'accessori
-83;戦闘中<r3_せんとうちゅう>に召喚技<r3_しょうかんわざ>で呼<r1_よ>び出<r1_だ>すデジモンを設定<r2_せってい>します
+83;Impostare il digimon da mandare in combattimento
 84;Al digimon è stato permesso di digevolversi
 85;Visualizza informazioni Personaggio
-86;取得<r2_しゅとく>した称号<r2_しょうごう>を表示<r2_ひょうじ>します
-87;手<r1_て>に入<r1_い>れた大事<r2_だいじ>なものを表示<r2_ひょうじ>します
-88;自分宛<r3_じぶんあて>に届<r1_とど>いたメールを表示<r2_ひょうじ>します
-89;データのセーブ・ロードを行<r1_おこな>います
-90;各種設定<r4_かくしゅせってい>を行<r1_おこな>います
-91;戦歴<r2_せんれき>です
-92;コロシアム10Fにある端末<r2_たんまつ>からダウンロードしたニュースログを表示<r2_ひょうじ>します
-93;この世界<r2_せかい>における様々<r2_さまざま>な用語<r2_ようご>と、その意味<r2_いみ>を表示<r2_ひょうじ>します
-94;所持<r2_しょじ>しているデジモンカードを表示<r2_ひょうじ>します
-95;ファイル島<r1_とう>の全域<r2_ぜんいき>マップを表示<r2_ひょうじ>します
+86;Visualizza il titolo da ottenere
+87;Visualizzazioni Importanti
+88;L'e-mail è stata inviata al suo destinatario
+89;La linea per salvare e caricare i dati
+90;Impostazioni Varie
+91;Carriera
+92;Il registro delle notizie è stato scaricato dal terminale del 10F piano del colosseo
+93;Visualizzazione Significato
+94;Scheda Digimon in possesso
+95;Mappa dell'intera Isola
 96;Velocità Testo
 97;Messaggio automatico Alimentazione
 98;ＢＧＭVolume
@@ -112,20 +112,20 @@
 111;Invertire
 112;Veloce
 113;Tenere
-114;メッセージの表示速度<r4_ひょうじそくど>を変更<r2_へんこう>します
-115;メッセージの自動送<r3_じどうおく>りをON/OFFします
-116;BGMの音量<r2_おんりょう>を変更<r2_へんこう>します
-117;SEの音量<r2_おんりょう>を変更<r2_へんこう>します
-118;バトルコマンドの操作<r2_そうさ>タイプを変更<r2_へんこう>します
-119;カメラの上下操作<r4_じょうげそうさ>を変更<r2_へんこう>します
-120;カメラの左右操作<r4_さゆうそうさ>を変更<r2_へんこう>します
-121;データインストールモードのON/OFFを変更<r2_へんこう>します
+114;Modifica la velocità di visualizzazione del testo
+115;trasmissione automatica di messaggi ON/OFF
+116;Volume casse BGM
+117;Volume casse SE
+118;Cambiare comandi battaglia
+119;Modifica funzionamento della telecamera
+120;Modifica il funzionamento della telecamera
+121;Dati installazione  ON/OFF
 122;Classifica Tamer
 123;Titolo
 124;Digimon Raised
 125;Tasca
 126;Ore di Gioco
-127;クエストクリア数
+127;Numero Missioni
 128;Ore Allenamento
 129;Numero di Battaglie
 130;NOME
@@ -137,13 +137,13 @@
 136;ＭＰ
 137;GRADO
 138;ＡＤＤ
-139;スキルが装着<r2_そうちゃく>されていません
-140;このスキルは未習得<r3_みしゅうとく>です
-141;攻撃技をセットしてください
-142;現在<r2_げんざい>のパートナーではこのスキルを覚<r1_おぼ>えられません
+139;Abilità non Insegnata
+140;Questa abilità non è adatta
+141;Si prega di impostare l'attacco
+142;Un partner in squadra non è attualmente in grado di ricordare questa abilità
 143;ABILITA' SPECIALI
-144;買<r1_か>う
-145;売<r1_う>る
+144;Ho Acquistato
+145;Vendita
 146;Esci
 147;Soldi
 148;Acquisto
@@ -158,8 +158,8 @@
 157;Oggi sul Mercato
 158;Limitare il Numero di Scambi
 159;Si prega di scegliere il numero da trattare
-160;倉庫<r2_そうこ>に入<r1_い>れる
-161;倉庫<r2_そうこ>から出<r1_だ>す
+160;Entrare nel Magazzino
+161;Uscire dal Magazzino
 162;Esci
 163;Deposita
 164;Ritira
@@ -203,9 +203,9 @@
 202;Mi Ricordo！
 203;MENU ALLENAMENTO
 204;Effetto Allenamento
-205;データをインストール中<r1_ちゅう>です。完了<r2_かんりょう>するまで、絶対<r2_ぜったい>に電源<r2_でんげん>を切<r1_き>らないで下<r1_くだ>さい。
-206;インストール完了<r2_かんりょう>しました。
-207;ご使用<r2_しよう>の記録<r2_きろく>メディアによっては、 インストールデータの作成<r2_さくせい>、及<r1_およ>び削除<r2_さくじょ>に時間<r2_じかん>がかかる場合<r2_ばあい>があります。
+205;I dati sono in fase di installazione Fino al completamento, si prega Di non spegnere la console e di non rimuovere l'alimentazione 。
+206;L'installazione è completata。
+207;Il supporto di registrazione viene usato per limitare i tempi di caricamento。
 208;Salva
 209;Carica
 210;Cancella
