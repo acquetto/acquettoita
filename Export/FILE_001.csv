@@ -61,25 +61,25 @@
 60;Aumenta di poco l'intelligenza。
 61;Aumenta di poco gli HP。
 62;Aumenta di poco gli MP。
-63;Puo essere usato come esca per pescare altri pesci。
-64;Sembra buono da mangiare。
-65;Aumenta la disciplina。
-66;Pesce molto buono。
-67;Si dice che questo pesce causi i terremoti。
-68;Da quasi l'immortalita'。
-69;Si puo dar da mangiare anche a gli altri pesci。
-70;Pesce molto raro。
-71;Pesce di grandi dimensioni puo saziare facilmente。
-72;Aumenta temporaneamente la potenza del digimon。
-73;Pesce molto raro ma non molto buono。
-74;Pesce delizioso che vive in zone fredde。
-75;Pesce crudo e delizioso。
-76;Pesce molto viscido,piuttosto delizioso。
-77;Pesce dai colori vivaci,molto delizioso。
-78;Riempio molto la pancia。
+63;どこにでもいる小<r1_ちい>さいサカナ。少<r1_すこ>しだけお腹<r1_おな>がふくれる。サカナのエサにすることもできる。
+64;よく釣<r1_つ>れるサカナ。食<r1_た>べるとお腹<r1_なか>がふくれる。味<r1_あじ>はふつうらしい。
+65;縦<r1_たて>に長<r1_なが>いサカナ。その卵<r1_たまご>は絶品<r2_ぜっぴん>と言<r1_い>われる。食<r1_た>べるとお腹<r1_なか>がふくれるだけでなく、しつけも良<r1_よ>くなる。
+66;他<r1_ほか>のサカナを食<r1_た>べてしまう非常<r2_ひじょう>に恐<r1_おそ>ろしいサカナ。食<r1_た>べるとそのお腹<r1_なか>に残<r1_のこ>っていたサカナの味<r1_あじ>もするという。
+67;大<r1_おお>きなクチと立派<r2_りっぱ>なヒゲが特徴的<r3_とくちょうてき>なサカナ。なぜか地震<r2_じしん>が起<r1_お>こった際<r1_さい>はデジナマズのせいと言<r1_い>われる。
+68;伝説<r2_でんせつ>の中<r1_なか>に存在<r2_そんざい>すると言<r1_い>われているサカナの神様<r2_かみさま>。食<r1_た>べると不老不死<r4_ふろうふし>になると言<r1_い>われている。
+69;群<r1_む>れでいる小<r1_ちい>さいサカナ。少<r1_すこ>しだけお腹<r1_なか>がふくれる。サカナのエサにすることもできる。
+70;珍<r1_めずら>しいサカナ。観賞用<r3_かんしょうよう>とされることが多<r1_おお>いが、勿論<r2_もちろん>食<r1_た>べることもできる。あるサカナが好<r1_この>むというが…。
+71;デジブナに似<r1_に>ているが、体<r1_からだ>が大<r1_おお>きいサカナ。食<r1_た>べるとお腹<r1_なか>がふくれる。
+72;とても力<r1_ちから>が強<r1_つよ>いサカナ。食<r1_た>べるとお腹<r1_なか>がふくれる。デジモンの力<r1_ちから>もあがるらしい。
+73;少<r1_すこ>し珍<r1_めずら>しいサカナ。デジモンの味覚<r2_みかく>に合<r1_あ>うらしく、食<r1_た>べるとお腹<r1_なか>がふくれるだけでなく、機嫌<r2_きげん>も良<r1_よ>くなる。
+74;寒<r1_さむ>い場所<r2_ばしょ>で生息<r2_せいそく>しているサカナ。味<r1_あじ>もおいしく、デジモンに食<r1_た>べさせると喜<r1_よろこ>ぶ。
+75;ヒゲの生<r1_は>えた小<r1_ちい>さいサカナ。食<r1_た>べるとおいしいらしい。きげんとしつけも良<r1_よ>くなる。
+76;全身<r2_ぜんしん>がヌルヌルしている細長<r2_ほそなが>いサカナ。デジモン達<r1_たち>がお祭<r1_まつ>りをする際<r1_さい>に食<r1_た>べるらしい。かなりおいしい。
+77;色鮮<r2_いろあざ>やかな体<r1_からだ>をしている古代魚<r3_こだいぎょ>。その味<r1_あじ>もかなりおいしく、食<r1_た>べたデジモンは強<r1_つよ>くなると言<r1_い>われている。
+78;ファイル島<r1_とう>に存在<r2_そんざい>するサカナの中<r1_なか>でもかなりの巨体<r2_きょたい>を誇<r1_ほこ>る。食<r1_た>べるとかなりお腹<r1_なか>がふくれる。
 79;Carne che se mangiata puo avvelenare il digimon。
 80;Un fungo pericoloso puo avvelenare il digimon。
-81;Se mangiato puo allungare la vita del digimon。
+81;腐<r1_くさ>りかけではなく、クサリがかかった幻<r1_まぼろし>のメロン。食<r1_た>べると長生<r2_ながい>きできると言<r1_い>われている。
 82;未使用アイテム
 83;未使用アイテム
 84;カワイイもの好<r1_ず>きのマリンエンジェモンが探<r1_さが>しているヒトデ。カワイイ…？
@@ -90,9 +90,9 @@
 89;カワイイもの好<r1_ず>きのマリンエンジェモンが探<r1_さが>しているヒトデ。カワイイ…？
 90;Grandi Minerali,Puo essere lanciato。
 91;Non ho nessun nuovo prelievo。
-92;Delizioso Dejitake。
+92;緑色<r2_みどりいろ>のデジタケ。デジタケよりおいしいと言<r1_い>われるが、多<r1_おお>くのデジモンは気<r1_き>にしない程度<r2_ていど>。
 93;Contanima la fusione。
-94;Si puo usare solo durante il combattimento recupera gli HP per 30 secondi。
+94;戦闘中<r3_せんとうちゅう>のみ使用可能<r4_しようかのう>。HPを30秒間<r2_びょうかん>ゆっくり回復<r2_かいふく>させる。
 95;未使用アイテム
 96;未使用アイテム
 97;未使用アイテム
