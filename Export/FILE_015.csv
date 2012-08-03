@@ -79,20 +79,20 @@
 78;Mappa
 79;Voce
 80;Visualizza informazioni Digimon
-81;Il digimon impostera' la tecnica
-82;Dare al digimon il set d'accessori
-83;Impostare il digimon da mandare in combattimento
+81;Visualizza le mosse del Digimon
+82;Scegli gli accessori per il tuo Digimon
+83;Imposta la tua Digimemory
 84;Al digimon e' stato permesso di digevolversi
 85;Visualizza informazioni Personaggio
 86;Visualizza il titolo da ottenere
 87;Visualizzazioni Importanti
 88;L'e-mail è stata inviata al suo destinatario
-89;La linea per salvare e caricare i dati
+89;Menu' per salvare e caricare
 90;Impostazioni Varie
 91;Carriera
 92;Il registro delle notizie e' stato scaricato dal terminale del 10F piano del colosseo
 93;Visualizzazione Significato
-94;Scheda Digimon in possesso
+94;Collezione carte Digimon
 95;Mappa dell'intera Isola
 96;Velocita' Testo
 97;Messaggio automatico 
@@ -122,11 +122,11 @@
 121;Dati installazione  ON/OFF
 122;Classifica Tamer
 123;Titolo
-124;Digimon Raised
-125;Tasca
+124;Prosperita'
+125;BIT
 126;Ore di Gioco
 127;Numero Missioni
-128;Ore Allenamento
+128;Numero di Allenamento
 129;Numero di Battaglie
 130;NOME
 131;ＤＩＧＩＭＯＮ
@@ -142,35 +142,35 @@
 141;Si prega di impostare l'attacco
 142;Un partner in squadra non è attualmente in grado di ricordare questa abilita'
 143;ABILITA' SPECIALI
-144;Ho Acquistato
-145;Vendita
+144;Acquista
+145;Vendi
 146;Esci
 147;Soldi
 148;Acquisto
 149;Vendita
 150;TOT
 151;Totale
-152;Vending Machine
+152;Distributore
 153;TOT：
-154;Si prega di scegliere il numero d'acquistare
-155;Si prega di scegliere il numero da vendere
+154;Scegli il numero
+155;Scegli in numero
 156;Negozio della Carne
 157;Oggi sul Mercato
 158;Limitare il Numero di Scambi
-159;Si prega di scegliere il numero da trattare
+159;Scegli il nummero da trattare
 160;Entrare nel Magazzino
 161;Uscire dal Magazzino
 162;Esci
 163;Deposita
 164;Ritira
-165;In Possesso
+165;Poss.
 166;Nel Deposito
 167;Nel Deposito
 168;Contiene
 169;Con se
 170;Esistono
-171;Si prega di scegliere il numero da depositare
-172;Si prega di scegleire il numero da ritirare
+171;Numero da depositare
+172;Numero da ritirare
 173;Spazio Deposito
 174;Oggetti
 175;Strategia
